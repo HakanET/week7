@@ -1,0 +1,15 @@
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\DisplayArraysElementsFunciton.csproj.AssemblyReference.cache
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\DisplayArraysElementsFunciton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\DisplayArraysElementsFunciton.AssemblyInfoInputs.cache
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\DisplayArraysElementsFunciton.AssemblyInfo.cs
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\DisplayArraysElementsFunciton.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\bin\Debug\net6.0\DisplayArraysElementsFunciton.exe
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\bin\Debug\net6.0\DisplayArraysElementsFunciton.deps.json
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\bin\Debug\net6.0\DisplayArraysElementsFunciton.runtimeconfig.json
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\bin\Debug\net6.0\DisplayArraysElementsFunciton.dll
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\bin\Debug\net6.0\DisplayArraysElementsFunciton.pdb
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\DisplayArraysElementsFunciton.dll
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\refint\DisplayArraysElementsFunciton.dll
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\DisplayArraysElementsFunciton.pdb
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\DisplayArraysElementsFunciton.genruntimeconfig.cache
+C:\Users\Hakan Efe\source\repos\Week7Functions\DisplayArraysElementsFunciton\obj\Debug\net6.0\ref\DisplayArraysElementsFunciton.dll
